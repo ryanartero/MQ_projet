@@ -6,8 +6,6 @@
 
 ---
 
-## 🇫🇷 Version française
-
 ### 📄 Présentation
 
 Ce document est un polycopié de mécanique quantique rédigé dans le cadre d’un travail personnel d’approfondissement.
