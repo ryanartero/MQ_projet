@@ -1,43 +1,63 @@
-# Cours de mécanique quantoque
+# Cours de mécanique quantique
 
-**=Auteur**: Ryan Artero  
-**Niveau**: L3 – M2
+**Auteur** : Ryan Artero  
+**Niveau** : L3 – M2  
+**Statut** : Manuscrit en cours de rédaction
+
+---
 
 ## 🇫🇷 Version française
 
 ### 📄 Présentation
 
-Ce document rassemble une sélection originale d’exercices de physique fondamentale, conçus pour combiner rigueur théorique et clarté pédagogique. Les thématiques abordées incluent la relativité restreinte, la mécanique quantique, la physique statistique, l’électrodynamique, ainsi que des aspects de physique mathématique.
+Ce document est un polycopié de mécanique quantique rédigé dans le cadre d’un travail personnel d’approfondissement.
 
-Chaque exercice est soigneusement rédigé, parfois accompagné d’une correction complète. Ce recueil s’adresse aux étudiants de Licence 3 à Master 1.
+L’objectif est de proposer une présentation rigoureuse et structurée des fondements de la mécanique quantique, en mettant l’accent sur les aspects mathématiques sous-jacents et leur articulation avec les concepts physiques.
 
-<p>
-  <a href="https://ryanartero.github.io/Fundamental_Physics_Exercises_FR_EN/" target="_blank" style="text-decoration:none; padding:12px 25px; background-color:#FF4500; color:white; border-radius:5px; font-weight:bold;">
-     🌐 Visiter le site
-  </a>
-</p>
+Le manuscrit couvre notamment :
 
-### 📎 PDF
+- Les fondements mathématiques de la mécanique quantique (espaces de Hilbert, opérateurs, spectre)
+- Les symétries et leurs implications physiques
+- La théorie des perturbations stationnaires et dépendants du temps
+- Les méthodes semi-classiques (WKB)
+- Construction rigoureuse de la théorie des groupes finis et de Lie, structures algébriques en physique et des représentations
 
-<p>
-  <a href="https://ryanartero.github.io/Fundamental_Physics_Exercises_FR_EN/FR_EPF.pdf" target="_blank" style="text-decoration:none; padding:10px 20px; background-color:#1E90FF; color:white; border-radius:5px; display:inline-block;">
-     Télécharger FR
-  </a>
-</p>
+Une attention particulière est portée à la clarté des démonstrations, à la justification des approximations et à la cohérence entre intuition physique et formalisme mathématique.
 
-### ⚠️ Licence et conditions
+Ce travail est réalisé en collaboration, avec une contribution personnelle importante sur la structuration, la rédaction et les développements théoriques.
+
+---
+
+## 🎯 Objectif
+
+Ce projet s’inscrit dans une démarche de formation à la physique théorique, avec un intérêt particulier pour :
+
+- la théorie quantique des champs (QFT)
+- les symétries et groupes de Lie
+- les théories de jauge
+- la gravitation et la cosmologie théorique
+
+---
+
+## ⚠️ Licence et conditions
 
 Ce travail est sous licence **Creative Commons BY-NC-ND 4.0** :
 
-- Vous pouvez **lire**, **partager** et **diffuser** librement le PDF.  
-- Il est **interdit de le modifier, le réutiliser ou le vendre**.  
-- Le fichier source LaTeX n’est pas publié pour protéger la diffusion de l’auteur.
+- Vous pouvez **lire**, **partager** et **diffuser** librement le PDF  
+- Il est **interdit de le modifier, le réutiliser ou le vendre**  
+- Le fichier source LaTeX n’est pas publié afin de préserver l’intégrité du travail  
+
+---
+
+## 🚧 État du document
+
+Ce manuscrit est en cours de développement.  
+Des modifications, ajouts et corrections sont apportés régulièrement.
 
 ---
 
 ## 💬 Feedback
 
-Comments, suggestions, and feedback from students, teachers, or researchers are very welcome.  
-Les retours pédagogiques sont les bienvenus (enseignants, étudiants, passionnés).
+Les retours pédagogiques et scientifiques sont les bienvenus (enseignants, étudiants, chercheurs).
 
-📧 Contact : [ryanartero2005@gmail.com](mailto:ryanartero2005@gmail.com)
+📧 Contact : [ryan.artero@etu.sorbonne-universite.fr](mailto:ryan.artero@etu.sorbonne-universite.fr)
